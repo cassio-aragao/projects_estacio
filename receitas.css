@@ -1,0 +1,21 @@
+.receitas-area {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.receita-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    text-align:justify;
+}
+
+.receita-card img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
